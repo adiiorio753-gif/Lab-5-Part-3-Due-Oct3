@@ -27,3 +27,5 @@ Then start describing your problem by typing in the terminal window.
 
 The purpose of this project is to demonstrate and study library classes, such 
 as ArrayList, HashMap, HashSet, and Random.
+
+43. The putIfAbsent method  og HashMap checks if the specified key is already present in the map
